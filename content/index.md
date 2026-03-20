@@ -1,5 +1,5 @@
 ---
-title: Ibrahim O. Yekinni
+title: Home
 ---
 
 Welcome here.
